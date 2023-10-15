@@ -1,4 +1,4 @@
-# Hi there, I'm Rockett 👋
+# Hi there, I'm Tag 👋
 
 ## My Tech Stack
 
@@ -7,6 +7,6 @@
 
 
 ## Let's Connect 🌐
-- [Email] rockettdev@itransition.co.uk
+- [Email] tagdev@itransition.co.uk
 
 Feel free to reach out, and let's collaborate on something amazing! 😄
